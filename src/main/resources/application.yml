@@ -24,3 +24,4 @@ spring:
 
 server:
   context-path: /tmall_springboot
+  port: 8080
